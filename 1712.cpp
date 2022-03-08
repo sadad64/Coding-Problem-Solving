@@ -12,7 +12,7 @@ int main() {
 	cin >> a >> b >> c;
 
 	if (b >= c) {
-		cout << "- 1";
+		cout << "-1";
 	}
 	else {
 		i = a / (c - b) + 1;
